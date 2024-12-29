@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📉📈🤖💯Rabiotic Trading Strategy Bot 
 ```
 ⬆️ (Replace above with your app's name)
 ```
